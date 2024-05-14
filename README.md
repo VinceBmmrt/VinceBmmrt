@@ -1,15 +1,30 @@
-### Hi there 👋 My name is Vincent
+# Hi there 👋 My name is Vincent
 
 I'm a developer that loves simplifying things. I love breaking down complex problems into easy solutions. I Currently live in Paris as a software developer. 
 My goal with coding is to help others. I enjoy being able to create something that other people can use to make their lives easier. I take criticism well, and use suggestions to improve the product.
 
-What I Do
 
-🌱 Learning [Next.js](https://nextjs.org/) and [React](https://reactjs.org/).
 
-👯 Open to collaborating on interesting projects.
+## 🌱 What I Do
 
-📫 How to reach me: vincebmmrtpro@gmail.com.
+- Currently diving deeper into NextJS and exploring advanced React patterns.
+- Always eager to stay updated with the latest developments in web technologies.
+
+
+### 👯 Always open to collaborating on interesting projects and on a perpetual pursuit of learning.  
+  
+  
+
+
+
+### 📫 Let's Connect!
+
+- LinkedIn: https://www.linkedin.com/in/vincent-bommert-289a2a184/
+- Exemple of eShop project in React: https://cerulean-melba-c14f75.netlify.app/
+- Email: vincebmmrtpro@gmail.com
+
+Feel free to reach out if you have any questions, suggestions, or just want to say hi! 😊
+
 
 
 
@@ -38,3 +53,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
