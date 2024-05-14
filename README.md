@@ -42,7 +42,32 @@ Feel free to reach out if you have any questions, suggestions, or just want to s
  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)   
  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)   
 
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vincebmmrt&label=Profile%20views&color=0e75b6&style=flat" alt="vincebmmrt" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vincebmmrt&rank=S,AAA,AA,A,B,C&theme=onedark" alt="vincebmmrt" /></a> </p>
+
+
+
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vincebmmrt&show_icons=true&locale=fr&layout=compact&theme=onedark" alt="vincebmmrt" /></p>
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=vincebmmrt&theme=onedark" alt="vincebmmrt" /></p>
+
+
+<div>
 <p align="center">
   <img src="https://24.media.tumblr.com/65032a3e0a3aaffd4f336bfa8ce0b65f/tumblr_mh0j8p3MeO1qagmleo1_250.gif" alt="image">
 </p>
+</div>
+
+
+
+
+
+
+
+
+
 
