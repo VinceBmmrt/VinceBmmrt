@@ -2,7 +2,8 @@
   <img src="https://media1.tenor.com/m/G_Td1o1G3cQAAAAC/future-pixel.gif" alt="test">
 </p>
 
-# Hi there 👋 My name is Vincent
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&color=F7F7F7&background=000000F8&random=false&width=750&height=70&lines=Hi+there+%F0%9F%91%8B+My+name+is+Vincent)](https://git.io/typing-svg)
 
 I'm a developer that loves simplifying things. I love breaking down complex problems into easy solutions. I Currently live in Paris as a software developer. My goal with coding is to help others. I enjoy being able to create something that other people can use to make their lives easier. I take criticism well, and use suggestions to improve the product.
 
