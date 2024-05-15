@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://media1.tenor.com/m/G_Td1o1G3cQAAAAC/future-pixel.gif" alt="test">
 </p>
@@ -84,19 +85,20 @@ Feel free to reach out if you have any questions, suggestions, or just want to s
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vincebmmrt&label=Profile%20views&color=0e75b6&style=flat" alt="vincebmmrt" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vincebmmrt&rank=S,AAA,AA,A,B,C&theme=onedark" alt="vincebmmrt" /></a> </p>
 
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vincebmmrt&label=Profile%20views&color=0e75b6&style=flat" alt="vincebmmrt" /> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vincebmmrt&rank=S,AAA,AA,A,B,C&theme=onedark&row=2&column=3" alt="vincebmmrt" /></a> </p>
 
+
+
+<div align="center">
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vincebmmrt&show_icons=true&locale=fr&layout=compact&theme=onedark" alt="vincebmmrt" /></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=vincebmmrt&theme=onedark" alt="vincebmmrt" /></p>
 
-
-<div>
+  
 <p align="center">
   <img src="https://24.media.tumblr.com/65032a3e0a3aaffd4f336bfa8ce0b65f/tumblr_mh0j8p3MeO1qagmleo1_250.gif" alt="image">
 </p>
