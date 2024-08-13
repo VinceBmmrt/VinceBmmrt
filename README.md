@@ -22,7 +22,7 @@ I'm a developer that loves simplifying things. I love breaking down complex prob
 
 ## 🌱 What I Do
 
-- Currently diving deeper into Next.js and exploring advanced React patterns.
+- Currently diving deeper into GraphQL and exploring PWA.
 - Always eager to stay updated with the latest developments in web technologies.
 
 ### 👯 Always open to collaborating on interesting projects.
