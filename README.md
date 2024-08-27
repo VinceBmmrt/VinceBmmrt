@@ -124,7 +124,7 @@ Feel free to reach out if you have any questions, suggestions, or just want to s
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vincebmmrt&label=Profile%20views&color=0e75b6&style=flat" alt="vincebmmrt" /> </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vincebmmrt&rank=S,AAA,AA,A,B,&theme=onedark&row=2&column=3" alt="vincebmmrt" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vincebmmrt&rank=SS,S,AAA,AA,A,B,&theme=onedark&row=2&column=3" alt="vincebmmrt" /></a> </p>
 
 
 
