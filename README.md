@@ -14,11 +14,13 @@ I'm a developer that loves simplifying things. I love breaking down complex prob
   <img src="https://steamuserimages-a.akamaihd.net/ugc/831329771678673548/49C66203D4484F804076D9E21376CE55F8BC2DFE/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="test">
 </p>
 
-## 🚀 Continuous Learning Journey
+
+<!-- ## 🚀 Continuous Learning Journey
 
 <p align="center">
   <img src="https://i.kym-cdn.com/photos/images/original/001/007/368/86a.gif" alt="Watch the video">
 </p>
+-->
 
 ## 🌱 What I Do
 
@@ -30,7 +32,8 @@ I'm a developer that loves simplifying things. I love breaking down complex prob
 ### 📫 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/vincent-bommert-289a2a184/)
-- [Example of eShop project in React](https://cerulean-melba-c14f75.netlify.app/)
+- [Example of eShop project in React](https://cerulean-melba-c14f75.netlify.app/) with Rdux Stripe Typescript and Jest
+- [Example of dashboard project in Next.js](https://nextjs-dashboard-vincebmmrts-projects.vercel.app/) with tailwind, Next auth, O auth typescript and Zod
 - Email: vincebmmrtpro@gmail.com
 
 Feel free to reach out if you have any questions, suggestions, or just want to say hi! 😊
