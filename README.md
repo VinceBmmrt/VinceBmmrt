@@ -24,7 +24,7 @@ I'm a developer that loves simplifying things. I love breaking down complex prob
 
 ## 🌱 What I Do
 
-- Currently diving deeper into GraphQL and exploring PWA.
+- Currently diving deeper into advanced Java patterns with Springboot 3 and exploring IA implantation.
 - Always eager to stay updated with the latest developments in web technologies.
 
 ### 👯 Always open to collaborating on interesting projects.
@@ -127,13 +127,13 @@ Feel free to reach out if you have any questions, suggestions, or just want to s
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vincebmmrt&label=Profile%20views&color=0e75b6&style=flat" alt="vincebmmrt" /> </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vincebmmrt&rank=SS,S,AAA,AA,A,B,&theme=onedark&row=2&column=3" alt="vincebmmrt" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vincebmmrt&rank=SS,S,AAA,AA,A,B,&theme=darkhub&row=2&column=3" alt="vincebmmrt" /></a> </p>
 
 
 
 <div align="center">
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vincebmmrt&show_icons=true&locale=fr&layout=compact&theme=onedark" alt="vincebmmrt" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vincebmmrt&show_icons=true&locale=fr&layout=compact&theme=dark" alt="vincebmmrt" /></p>
 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VinceBmmrt&theme=dark" alt="GitHub Streak" />
 
