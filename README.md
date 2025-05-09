@@ -133,9 +133,7 @@ Feel free to reach out if you have any questions, suggestions, or just want to s
 
 <div align="center">
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vincebmmrt&show_icons=true&locale=fr&layout=compact&theme=dark" alt="vincebmmrt" /></p>
-
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=VinceBmmrt&theme=dark" alt="GitHub Streak" />
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vincebmmrt&show_icons=true&locale=fr&layout=compact&theme=dark&langs_count=14" alt="vincebmmrt" /></p>
 
   
 <p align="center">
