@@ -33,7 +33,8 @@ I'm a developer that loves simplifying things. I love breaking down complex prob
 
 - [LinkedIn](https://www.linkedin.com/in/vincent-bommert-289a2a184/)
 - [Example of eShop project in React](https://cerulean-melba-c14f75.netlify.app/) with Rdux Stripe Typescript and Jest
-- [Example of dashboard project in Next.js](https://nextjs-dashboard-vincebmmrts-projects.vercel.app/) with tailwind, Next auth, O auth typescript and Zod
+- [Example of dashboard project in Next.js](https://nextjs-dashboard-vincebmmrts-projects.vercel.app/) with tailwind, Next auth, O auth typescript and Zod + Best practices Lighthouse performances
+- [Example of Netflix Clone project in Next.js](https://netflix-portfolio-nine.vercel.app/) with Next.js 15, TypeScript, Tailwind CSS, and TMDB API integration. Features responsive design, server components, optimized image loading, and dynamic content fetching.
 - Email: vincebmmrtpro@gmail.com
 
 Feel free to reach out if you have any questions, suggestions, or just want to say hi! 😊
