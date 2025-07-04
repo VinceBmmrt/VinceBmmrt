@@ -28,11 +28,18 @@ I'm a developer that loves simplifying things. I love breaking down complex prob
 - Always eager to stay updated with the latest developments in web technologies.
 
 Explore some projects to get a feel for my skills:
-- [EShop project in React with redux, Firebase and Stripe](https://cerulean-melba-c14f75.netlify.app/) with Redux, Stripe, TypeScript, and Jest
-- [GPT APP Chatbot with Java Backend, Spring AI and simple React Front end](https://springai-front-33avo5rrd-vincebmmrts-projects.vercel.app/)
-- [Netflix Clone project in Next.js](https://netflix-portfolio-nine.vercel.app/) featuring Next.js 15, TypeScript, Tailwind CSS, TMDB API, responsive design, server components, optimized images, and dynamic content fetching
+- [E-Shop project in React with redux, Firebase and Stripe](https://cerulean-melba-c14f75.netlify.app/): With Redux, Stripe, TypeScript, and Jest
+  
+- [GPT App with Spring AI](https://springai-front-33avo5rrd-vincebmmrts-projects.vercel.app/): Full-stack AI chatbot with a Java Spring backend, and simple React frontend.
+  
+- [AI Agentic Calendar Assistant](https://ai-assistant-langraph-openrouter-ew8l.vercel.app/): A personal AI assistant with a simple interface that can access your Google Calendar to smartly add events based on availability, check free time slots, and keep conversation history. The AI is powered by Langraph with an agent using OpenRouter.
+  
+- [Netflix Clone project in Next.js](https://netflix-portfolio-nine.vercel.app/): Featuring Next.js 15, TypeScript, Tailwind CSS, TMDB API, responsive design, server components, optimized images, and dynamic content fetching
+  
 - [Dashboard project in Next.js from the official documentation course](https://nextjs-dashboard-vincebmmrts-projects.vercel.app/) with Tailwind CSS, NextAuth, OAuth, TypeScript, and Zod — includes best practices and Lighthouse performance optimizations
-- [Example of Front-end UX Design](https://space-showcase-lime.vercel.app/) — creative landing page built with Next.js, TypeScript, Tailwind CSS, featuring an interactive spaceship pilot to explore animated previews of web app categories like hotel booking, travel planning, and dashboards, showcasing UX/UI skills
+  
+- [Example of Front-end UX Design](https://space-showcase-lime.vercel.app/): Creative landing page built with Next.js, TypeScript, Tailwind CSS, featuring an interactive spaceship pilot to explore animated previews of web app categories like hotel booking, travel planning, and dashboards, showcasing UX/UI skills
+
 
 ### 👯 Always open to collaborating on interesting projects.
 
