@@ -15,13 +15,6 @@ I'm a developer that loves simplifying things. I love breaking down complex prob
 </p>
 
 
-<!-- ## 🚀 Continuous Learning Journey
-
-<p align="center">
-  <img src="https://i.kym-cdn.com/photos/images/original/001/007/368/86a.gif" alt="Watch the video">
-</p>
--->
-
 ## 🌱 What I Do
 
 - Currently diving deeper into advanced Java patterns with Springboot 3 and exploring IA implantation.
