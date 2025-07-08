@@ -38,9 +38,9 @@ Explore some projects to get a feel for my skills:
 
 ### 📫 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/vincent-bommert-289a2a184/)
+- [LinkedIn](https://www.linkedin.com/in/vincent-b-289a2a184/)
 
-- Email: vincebmmrtpro@gmail.com
+- Email: vincentbmmrtpro@gmail.com
 
 Feel free to reach out if you have any questions, suggestions, or just want to say hi! 😊
 
