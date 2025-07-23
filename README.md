@@ -24,7 +24,7 @@ Explore some projects to get a feel for my skills:
 - [Career Digital Twin Alter Ego](https://huggingface.co/spaces/vincentBmmrt/career_conversation): An AI-powered conversational agent built with Gemini, OpenAI SDK, Gradio, and Python.  
   Designed as a digital alter ego to introduce myself to future employers and sends 📱 Pushover notifications when a user shares contact info or asks unknown questions.
   
-- [E-Shop project in React with redux, Firebase and Stripe](https://cerulean-melba-c14f75.netlify.app/): With Redux, Stripe, TypeScript, and Jest
+- [E-Shop project in React](https://cerulean-melba-c14f75.netlify.app/): With TypeScript, Firebase, Redux, Stripe, Jest and Oauth for Authentification
   
 - [GPT App with Spring AI](https://springai-front-33avo5rrd-vincebmmrts-projects.vercel.app/): Full-stack AI chatbot with a Java Spring backend, and simple React frontend.
   
