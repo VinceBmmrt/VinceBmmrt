@@ -21,6 +21,8 @@ I'm a developer that loves simplifying things. I love breaking down complex prob
 - Always eager to stay updated with the latest developments in web technologies.
 
 Explore some projects to get a feel for my skills:
+- [Career Digital Twin Alter Ego](https://huggingface.co/spaces/vincentBmmrt/career_conversation): An AI-powered conversational agent built with Gemini, OpenAI SDK, Gradio, and Python.  
+  Designed as a digital alter ego to introduce myself to future employers.
 - [E-Shop project in React with redux, Firebase and Stripe](https://cerulean-melba-c14f75.netlify.app/): With Redux, Stripe, TypeScript, and Jest
   
 - [GPT App with Spring AI](https://springai-front-33avo5rrd-vincebmmrts-projects.vercel.app/): Full-stack AI chatbot with a Java Spring backend, and simple React frontend.
