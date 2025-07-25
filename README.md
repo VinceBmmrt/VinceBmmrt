@@ -51,7 +51,7 @@ Feel free to reach out if you have any questions, suggestions, or just want to s
 <br/><br/>
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=VinceBmmrt&theme=radical&no-frame=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B&row=2&column=4" alt="VinceBmmrt's GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=VinceBmmrt&theme=radical&no-frame=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B&row=2&column=5" alt="VinceBmmrt's GitHub Trophies" />
 </div>
 
 <br/><br/>
