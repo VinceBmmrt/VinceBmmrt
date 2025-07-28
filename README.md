@@ -24,11 +24,16 @@ Explore some projects to get a feel for my skills:
 - [Career Digital Twin Alter Ego](https://huggingface.co/spaces/vincentBmmrt/career_conversation): An AI-powered conversational agent built with Gemini, OpenAI SDK, Gradio, and Python.  
   Designed as a digital alter ego to introduce myself to future employers and sends 📱 Pushover notifications when a user shares contact info or asks unknown questions.
   
-- [E-Shop project in React](https://cerulean-melba-c14f75.netlify.app/): With TypeScript, Firebase, Redux, Stripe, Jest and Oauth for Authentification
-  
-- [GPT App with Spring AI](https://springai-front-33avo5rrd-vincebmmrts-projects.vercel.app/): Full-stack AI chatbot with a Java Spring backend, and simple React frontend.
+- [E-Shop project in React](https://cerulean-melba-c14f75.netlify.app/): A complete e-commerce application built with React, TypeScript, Firebase, Redux, and Stripe.  
+  Includes full authentication via OAuth, product browsing, cart management, and secure payment processing — all tested with Jest.
+
+- [AI Deep Research](https://github.com/VinceBmmrt/AI-DeepResearch-App):  A multi-agent research application powered by OpenAI's API and Gradio.  
+  It performs parallel searches (customizable in the code), synthesizes the results into a well-structured markdown report, and sends it via email using Resend.  
+  💸 Not deployed online to avoid OpenAI API costs — but you can [watch a full demo here](https://drive.google.com/file/d/1v7ZVjc3eCQ7Z6bjfRF2HYZhjHBgFwspS/view).
   
 - [AI Agentic Calendar Assistant](https://ai-assistant-langraph-openrouter-ew8l.vercel.app/): A personal AI assistant with a simple interface that can access your Google Calendar to smartly add events based on availability, check free time slots, and keep conversation history. The AI is powered by Langraph with an agent using OpenRouter.
+
+- [GPT App with Spring AI](https://springai-front-33avo5rrd-vincebmmrts-projects.vercel.app/): Full-stack AI chatbot with a Java Spring backend, and simple React frontend.
   
 - [Netflix Clone project in Next.js](https://netflix-portfolio-nine.vercel.app/): Featuring Next.js 15, TypeScript, Tailwind CSS, TMDB API, responsive design, server components, optimized images, and dynamic content fetching
   
