@@ -30,6 +30,10 @@ Explore some projects to get a feel for my skills:
 - [AI Deep Research](https://github.com/VinceBmmrt/AI-DeepResearch-App):  A multi-agent research application powered by OpenAI's API and Gradio.  
   It performs parallel searches (customizable in the code), synthesizes the results into a well-structured markdown report, and sends it via email using Resend.  
   💸 Not deployed online to avoid OpenAI API costs — but you can [watch a full demo here](https://drive.google.com/file/d/1v7ZVjc3eCQ7Z6bjfRF2HYZhjHBgFwspS/view).
+
+- [Crew-AI Debate System](https://github.com/VinceBmmrt/Crew-AI-Debate-System) 🧠⚔️: A multi-agent debate simulation powered by CrewAI.  
+It features two AI debaters and a judge over a motion.  
+You can plug in your own API keys and use any models you like and create a debate between Claude, ChatGPT, and Deepseek, and let the judge pick a winner based on logic and clarity.  
   
 - [AI Agentic Calendar Assistant](https://ai-assistant-langraph-openrouter-ew8l.vercel.app/): A personal AI assistant with a simple interface that can access your Google Calendar to smartly add events based on availability, check free time slots, and keep conversation history. The AI is powered by Langraph with an agent using OpenRouter.
 
