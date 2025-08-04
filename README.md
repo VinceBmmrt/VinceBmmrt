@@ -33,6 +33,9 @@ Explore some projects to get a feel for my skills:
   It performs parallel searches (customizable in the code), synthesizes the results into a well-structured markdown report, and sends it via email using Resend.  
   💸 Not deployed online to avoid OpenAI API costs — but you can [watch a full demo here](https://drive.google.com/file/d/1v7ZVjc3eCQ7Z6bjfRF2HYZhjHBgFwspS/view).
 
+- [StockPicker AI-powered investment research assistant](https://github.com/VinceBmmrt/CrewAI-StockPicker-MultiAgents-System-For-Investements) 📈🤖💸: This system coordinates multiple specialized agents working hierarchically to identify trending companies 🔍, analyze their financials 📊, and produce smart stock recommendations 📝. The final advice is delivered via custom mobile push notifications 📲.
+It also features contextual memory layers 🧠 using SQLite and Google Generative AI embeddings for semantic understanding and relevance. Designed for automated financial insights with structured multi-agent reasoning.
+
 - [Crew-AI Debate System](https://github.com/VinceBmmrt/Crew-AI-Debate-System) 🧠⚔️: A multi-agent debate simulation powered by CrewAI.  
 It features two AI debaters and a judge over a motion.  
 You can plug in your own API keys and use any models you like and create a debate between Claude, ChatGPT, and Deepseek, and let the judge pick a winner based on logic and clarity.  
