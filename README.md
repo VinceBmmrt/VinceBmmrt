@@ -17,15 +17,17 @@ I'm a developer that loves simplifying things. I love breaking down complex prob
 
 ## 🌱 What I Do
 
-- Currently diving deeper into advanced Java patterns with Springboot 3 and exploring IA implantation.
+- Currently diving deeper into advanced agentic AI implantation.
 - Always eager to stay updated with the latest developments in web technologies.
 
 Explore some projects to get a feel for my skills:
 - [Career Digital Twin Alter Ego](https://huggingface.co/spaces/vincentBmmrt/career_conversation): An AI-powered conversational agent built with Gemini, OpenAI SDK, Gradio, and Python.  
   Designed as a digital alter ego to introduce myself to future employers and sends 📱 Pushover notifications when a user shares contact info or asks unknown questions.
   
-- [E-Shop project in React](https://cerulean-melba-c14f75.netlify.app/): A complete e-commerce application built with React, TypeScript, Firebase, Redux, and Stripe.  
+- [FullStack E-Shop project in React](https://cerulean-melba-c14f75.netlify.app/): A complete e-commerce application built with React, TypeScript, Firebase, Redux, and Stripe.  
   Includes full authentication via OAuth, product browsing, cart management, and secure payment processing — all tested with Jest.
+
+- [4 Agents-AI-Engineering-Team](https://github.com/VinceBmmrt/4-Agents-Engineering-Team) 🤖👨‍💻🧪: A collaborative AI-driven software engineering team powered by CrewAI, where four specialized agents — tech lead 🧠, backend dev 🔧, frontend dev 🎨, and QA engineer ✅ — work together to design, build, test, and demo a complete Python project. Fully modular and configurable 🛠️, each agent uses a tailored language model to optimize its task. Includes a Gradio demo interface 💻 and automated unit testing 🔁 for structured, high-quality development. [demo here](https://drive.google.com/file/d/17ePDdkq0TVcTeYgG-axHndiNdVlBoeM5/view)
 
 - [AI Deep Research](https://github.com/VinceBmmrt/AI-DeepResearch-App):  A multi-agent research application powered by OpenAI's API and Gradio.  
   It performs parallel searches (customizable in the code), synthesizes the results into a well-structured markdown report, and sends it via email using Resend.  
@@ -37,13 +39,13 @@ You can plug in your own API keys and use any models you like and create a debat
   
 - [AI Agentic Calendar Assistant](https://ai-assistant-langraph-openrouter-ew8l.vercel.app/): A personal AI assistant with a simple interface that can access your Google Calendar to smartly add events based on availability, check free time slots, and keep conversation history. The AI is powered by Langraph with an agent using OpenRouter.
 
+  - [Netflix Clone project in Next.js](https://netflix-portfolio-nine.vercel.app/): Featuring Next.js 15, TypeScript, Tailwind CSS, TMDB API, responsive design, server components, optimized images, and dynamic content fetching
+
 - [GPT App with Spring AI](https://springai-front-33avo5rrd-vincebmmrts-projects.vercel.app/): Full-stack AI chatbot with a Java Spring backend, and simple React frontend.
-  
-- [Netflix Clone project in Next.js](https://netflix-portfolio-nine.vercel.app/): Featuring Next.js 15, TypeScript, Tailwind CSS, TMDB API, responsive design, server components, optimized images, and dynamic content fetching
   
 - [Dashboard project in Next.js from the official documentation course](https://nextjs-dashboard-vincebmmrts-projects.vercel.app/) with Tailwind CSS, NextAuth, OAuth, TypeScript, and Zod — includes best practices and Lighthouse performance optimizations
   
-- [Example of Front-end UX Design](https://space-showcase-lime.vercel.app/): Creative landing page built with Next.js, TypeScript, Tailwind CSS, featuring an interactive spaceship pilot to explore animated previews of web app categories like hotel booking, travel planning, and dashboards, showcasing UX/UI skills
+- [Example of Front-end UX Designs](https://space-showcase-lime.vercel.app/): Creative landing page built with Next.js, TypeScript, Tailwind CSS, featuring an interactive spaceship pilot to explore animated previews of web app categories like hotel booking, travel planning, and dashboards, showcasing UX/UI skills
 
 
 ### 👯 Always open to collaborating on interesting projects.
