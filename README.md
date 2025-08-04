@@ -39,7 +39,7 @@ You can plug in your own API keys and use any models you like and create a debat
   
 - [AI Agentic Calendar Assistant](https://ai-assistant-langraph-openrouter-ew8l.vercel.app/): A personal AI assistant with a simple interface that can access your Google Calendar to smartly add events based on availability, check free time slots, and keep conversation history. The AI is powered by Langraph with an agent using OpenRouter.
 
-  - [Netflix Clone project in Next.js](https://netflix-portfolio-nine.vercel.app/): Featuring Next.js 15, TypeScript, Tailwind CSS, TMDB API, responsive design, server components, optimized images, and dynamic content fetching
+- [Netflix Clone project in Next.js](https://netflix-portfolio-nine.vercel.app/): Featuring Next.js 15, TypeScript, Tailwind CSS, TMDB API, responsive design, server components, optimized images, and dynamic content fetching
 
 - [GPT App with Spring AI](https://springai-front-33avo5rrd-vincebmmrts-projects.vercel.app/): Full-stack AI chatbot with a Java Spring backend, and simple React frontend.
   
