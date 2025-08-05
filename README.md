@@ -70,11 +70,11 @@ Feel free to reach out if you have any questions, suggestions, or just want to s
 
 <br/><br/>
 
-
-
-<div align="center">
+<!-- <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinceBmmrt&layout=compact&theme=radical&langs_count=20" alt="Top Langs" />
-</div>
+</div> -->
+
+
 
 <br/><br/>
 
