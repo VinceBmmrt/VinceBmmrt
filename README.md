@@ -25,9 +25,15 @@ Explore some projects to get a feel for my skills:
   Designed as a digital alter ego to introduce myself to future employers and sends 📱 Pushover notifications when a user shares contact info or asks unknown questions.
   
 - [FullStack E-Shop project in React](https://cerulean-melba-c14f75.netlify.app/): A complete e-commerce application built with React, TypeScript, Firebase, Redux, and Stripe.  
-  Includes full authentication via OAuth, product browsing, cart management, and secure payment processing — all tested with Jest.
+  Includes full authentication via OAuth, product browsing, cart management, and secure payment processing, all tested with Jest.
 
-- [4 Agents-AI-Engineering-Team](https://github.com/VinceBmmrt/4-Agents-Engineering-Team) 🤖👨‍💻🧪: A collaborative AI-driven software engineering team powered by CrewAI, where four specialized agents — tech lead 🧠, backend dev 🔧, frontend dev 🎨, and QA engineer ✅ — work together to design, build, test, and demo a complete Python project. Fully modular and configurable 🛠️, each agent uses a tailored language model to optimize its task. Includes a Gradio demo interface 💻 and automated unit testing 🔁 for structured, high-quality development. [demo here](https://drive.google.com/file/d/17ePDdkq0TVcTeYgG-axHndiNdVlBoeM5/view)
+- [4 Agents-AI-Engineering-Team](https://github.com/VinceBmmrt/4-Agents-Engineering-Team) 🤖👨‍💻🧪: A collaborative AI-driven software engineering team powered by CrewAI, where four specialized agents: tech lead 🧠, backend dev 🔧, frontend dev 🎨, and QA engineer ✅ — work together to design, build, test, and demo a complete Python project. Fully modular and configurable 🛠️, each agent uses a tailored language model to optimize its task. Includes a Gradio demo interface 💻 and automated unit testing 🔁 for structured, high-quality development. [demo here](https://drive.google.com/file/d/17ePDdkq0TVcTeYgG-axHndiNdVlBoeM5/view)
+
+- [AI Sidekick Assistant](https://github.com/VinceBmmrt/Langraph-AI-Sidekick-Assistant) 🤖🚀: This experimental project showcases a cutting-edge AI assistant capable of organizing knowledge and actions as interconnected graphs. It seamlessly combines web search 🔍, automated browsing 🌐, code execution 🐍, file handling 📂, email writing and reading 📧, and knowledge retrieval from Wikipedia 📚, all while self-evaluating and self-correcting its answers to improve over time.  
+If you’re fascinated by AI that can think, act, and adapt autonomously, dive in and explore this experimental journey into intelligent assistants.
+We empower the AI to run Python code dynamically, making it incredibly powerful but use this capability with caution to ensure safety. Explore with curiosity and care! ⚠️
+Demo video available here: 🎥 [AI Sidekick Assistant Demo](https://drive.google.com/file/d/1q4y5yFmMHtf4N3U7WncXWXR6v8bpbm9k/view)
+
 
 - [AI Deep Research](https://github.com/VinceBmmrt/AI-DeepResearch-App):  A multi-agent research application powered by OpenAI's API and Gradio.  
   It performs parallel searches (customizable in the code), synthesizes the results into a well-structured markdown report, and sends it via email using Resend.  
