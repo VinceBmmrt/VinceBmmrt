@@ -34,6 +34,9 @@ If you’re fascinated by AI that can think, act, and adapt autonomously, dive i
 We empower the AI to run Python code dynamically, making it incredibly powerful but use this capability with caution to ensure safety. Explore with curiosity and care! ⚠️
 Demo video available here: 🎥 [AI Sidekick Assistant Demo](https://drive.google.com/file/d/1q4y5yFmMHtf4N3U7WncXWXR6v8bpbm9k/view)
 
+- [Agents Army Factory](https://github.com/VinceBmmrt/agents-army-factory-autogencore) 🤖🛠️: An experimental platform for creating autonomous AI agents that can brainstorm, generate Python code, and collaborate in real-time. Features a Creator agent capable of dynamically generating new agents, inter-agent messaging, and customizable objectives. ⚠️ Experimental.  
+Demo video available here: 🎥 [View Demo](https://drive.google.com/file/d/1QUplfJMUBH3g-4LIjkz3D-XM2dhRPoo9/view)
+
 
 - [AI Deep Research](https://github.com/VinceBmmrt/AI-DeepResearch-App):  A multi-agent research application powered by OpenAI's API and Gradio.  
   It performs parallel searches (customizable in the code), synthesizes the results into a well-structured markdown report, and sends it via email using Resend.  
