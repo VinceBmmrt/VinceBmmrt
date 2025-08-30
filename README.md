@@ -2,7 +2,7 @@
           
           
 <p align="center">
-  <img src="https://media1.tenor.com/m/G_Td1o1G3cQAAAAC/future-pixel.gif" alt="test">
+  <img src="./assets/tenor.gif" alt="future-pixel gif">
 </p>
 
 
