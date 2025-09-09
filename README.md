@@ -34,6 +34,12 @@ If you’re fascinated by AI that can think, act, and adapt autonomously, dive i
 We empower the AI to run Python code dynamically, making it incredibly powerful but use this capability with caution to ensure safety. Explore with curiosity and care! ⚠️
 Demo video available here: 🎥 [AI Sidekick Assistant Demo](https://drive.google.com/file/d/1q4y5yFmMHtf4N3U7WncXWXR6v8bpbm9k/view)
 
+- [Autonomous AI Trading Simulation](https://github.com/VinceBmmrt/Autonomous-Trading-Simulation) 📈💹  
+  An experimental simulation where multiple AI agents — inspired by iconic investors like Buffett, Soros, Dalio, and Wood — develop and evolve their own trading strategies.  
+  Each agent leverages **MCP servers**, real-time **Polygon market data**, **Brave Search**, and persistent memory 🧠 to adapt over time.  
+  🔧 Built with **Python 3.12+, Gradio, OpenAI Agents, Plotly, and multi-model orchestration** (GPT, DeepSeek, Gemini, Grok).  
+  🎥 [Watch demo](https://drive.google.com/file/d/17wud_t8fTiFNZBx5Hn02OoVFxCJR-yGR/view)
+
 - [Agents Army Factory](https://github.com/VinceBmmrt/agents-army-factory-autogencore) 🤖🛠️: An experimental platform for creating autonomous AI agents that can brainstorm, generate Python code, and collaborate in real-time. Features a Creator agent capable of dynamically generating new agents, inter-agent messaging, and customizable objectives. ⚠️ Experimental.  
 Demo video available here: 🎥 [View Demo](https://drive.google.com/file/d/1QUplfJMUBH3g-4LIjkz3D-XM2dhRPoo9/view)
 
