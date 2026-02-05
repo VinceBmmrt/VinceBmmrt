@@ -40,6 +40,12 @@ Demo video available here: 🎥 [AI Sidekick Assistant Demo](https://drive.googl
   🔧 Built with **Python 3.12+, Gradio, OpenAI Agents, Plotly, and multi-model orchestration** (GPT, DeepSeek, Gemini, Grok).  
   🎥 [Watch demo](https://drive.google.com/file/d/17wud_t8fTiFNZBx5Hn02OoVFxCJR-yGR/view)
 
+- [Advanced RAG System with Evaluation Framework](https://github.com/VinceBmmrt/Advanced-RAG-System-with-Evaluation-Framework-and-Pro-Implementations)[Advanced RAG System with Evaluation Framework](https://github.com/VinceBmmrt/Advanced-RAG-System-with-Evaluation-Framework-and-Pro-Implementations)📚🤖: An advanced Retrieval-Augmented Generation (RAG) system built in Python and Gradio, featuring an evaluation framework to measure performance using MRR, nDCG, and keyword coverage.  
+It demonstrates how to combine large language models with document retrieval, custom prompts, and systematic self-evaluation for high-quality answer generation.  
+Includes an interactive Gradio interface 💻 and example datasets for testing and benchmarking the RAG pipeline.  
+   
+
+
 - [Agents Army Factory](https://github.com/VinceBmmrt/agents-army-factory-autogencore) 🤖🛠️: An experimental platform for creating autonomous AI agents that can brainstorm, generate Python code, and collaborate in real-time. Features a Creator agent capable of dynamically generating new agents, inter-agent messaging, and customizable objectives. ⚠️ Experimental.  
 Demo video available here: 🎥 [View Demo](https://drive.google.com/file/d/1QUplfJMUBH3g-4LIjkz3D-XM2dhRPoo9/view)
 
