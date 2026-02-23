@@ -59,7 +59,9 @@ It also features contextual memory layers 🧠 using SQLite and Google Generativ
 
 - [Crew-AI Debate System](https://github.com/VinceBmmrt/Crew-AI-Debate-System) 🧠⚔️: A multi-agent debate simulation powered by CrewAI.  
 It features two AI debaters and a judge over a motion.  
-You can plug in your own API keys and use any models you like and create a debate between Claude, ChatGPT, and Deepseek, and let the judge pick a winner based on logic and clarity.  
+You can plug in your own API keys and use any models you like and create a debate between Claude, ChatGPT, and Deepseek, and let the judge pick a winner based on logic and clarity.
+
+ - [Amazon Price Prediction — LLM + Deep Neural Network 🏷️🧠](https://github.com/VinceBmmrt/amazon-price-prediction-llm-deep-neural-network): An end-to-end ML pipeline that predicts Amazon product prices from raw text descriptions, combining LLM-based preprocessing with a custom deep neural network. Uses **Groq** to summarize 820,000+ product listings into structured 5-field summaries via async batch jobs, then trains a **10-layer ResNet-style DNN** (4,096 neurons, 100M+ parameters) with PyTorch on those enriched representations. Features multi-process data loading, log-scale price normalization, CUDA/MPS/CPU auto-detection.
   
 - [AI Agentic Calendar Assistant](https://ai-assistant-langraph-openrouter-ew8l.vercel.app/): A personal AI assistant with a simple interface that can access your Google Calendar to smartly add events based on availability, check free time slots, and keep conversation history. The AI is powered by Langraph with an agent using OpenRouter.
 
