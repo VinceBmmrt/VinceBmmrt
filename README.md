@@ -17,15 +17,19 @@ I'm a developer that loves simplifying things. I love breaking down complex prob
 
 ## 🌱 What I Do
 
-- Currently diving deeper into advanced agentic AI implantation.
+- Currently diving deeper into advanced agentic AI implantation and LLM engineering.
 - Always eager to stay updated with the latest developments in web technologies.
 
 Explore some projects to get a feel for my skills:
+
+
+## 🤖 AI & Agentic Systems
+
 - [Career Digital Twin Alter Ego](https://huggingface.co/spaces/vincentBmmrt/career_conversation): An AI-powered conversational agent built with Gemini, OpenAI SDK, Gradio, and Python.  
   Designed as a digital alter ego to introduce myself to future employers and sends 📱 Pushover notifications when a user shares contact info or asks unknown questions.
-  
-- [FullStack E-Shop project in React](https://cerulean-melba-c14f75.netlify.app/): A complete e-commerce application built with React, TypeScript, Firebase, Redux, and Stripe.  
-  Includes full authentication via OAuth, product browsing, cart management, and secure payment processing, all tested with Jest.
+
+- [price-watch-multi-agent-platform](https://github.com/VinceBmmrt/price-watch-multi-agent-platform) 🤖💰: A LLM-orchestrated multi-agent platform combining RAG over 800K scraped Amazon products, a handcrafted fine-tuned Llama 3.2 deployed on a cloud GPU, and a deep residual neural network to estimate true product value on the fly. Seven specialized agents collaborate fully autonomously — from RSS feed scraping to crafting and delivering push notifications — with zero human intervention. Built with **Python, OpenAI, ChromaDB, PyTorch, Modal, and Gradio**.
+
 
 - [4 Agents-AI-Engineering-Team](https://github.com/VinceBmmrt/4-Agents-Engineering-Team) 🤖👨‍💻🧪: A collaborative AI-driven software engineering team powered by CrewAI, where four specialized agents: tech lead 🧠, backend dev 🔧, frontend dev 🎨, and QA engineer ✅ — work together to design, build, test, and demo a complete Python project. Fully modular and configurable 🛠️, each agent uses a tailored language model to optimize its task. Includes a Gradio demo interface 💻 and automated unit testing 🔁 for structured, high-quality development. [demo here](https://drive.google.com/file/d/17ePDdkq0TVcTeYgG-axHndiNdVlBoeM5/view)
 
@@ -40,13 +44,14 @@ Demo video available here: 🎥 [AI Sidekick Assistant Demo](https://drive.googl
   🔧 Built with **Python 3.12+, Gradio, OpenAI Agents, Plotly, and multi-model orchestration** (GPT, DeepSeek, Gemini, Grok).  
   🎥 [Watch demo](https://drive.google.com/file/d/17wud_t8fTiFNZBx5Hn02OoVFxCJR-yGR/view)
 
+
 - [Advanced RAG System with Evaluation Framework](https://github.com/VinceBmmrt/Advanced-RAG-System-with-Evaluation-Framework-and-Pro-Implementations)[Advanced RAG System with Evaluation Framework](https://github.com/VinceBmmrt/Advanced-RAG-System-with-Evaluation-Framework-and-Pro-Implementations)📚🤖: An advanced Retrieval-Augmented Generation (RAG) system built in Python and Gradio, featuring an evaluation framework to measure performance using MRR, nDCG, and keyword coverage.  
 It demonstrates how to combine large language models with document retrieval, custom prompts, and systematic self-evaluation for high-quality answer generation.  
 Includes an interactive Gradio interface 💻 and example datasets for testing and benchmarking the RAG pipeline.  
    
 
 
-- [Agents Army Factory](https://github.com/VinceBmmrt/agents-army-factory-autogencore) 🤖🛠️: An experimental platform for creating autonomous AI agents that can brainstorm, generate Python code, and collaborate in real-time. Features a Creator agent capable of dynamically generating new agents, inter-agent messaging, and customizable objectives. ⚠️ Experimental.  
+- [Agents AI Factory](https://github.com/VinceBmmrt/agents-army-factory-autogencore) 🤖🛠️: An experimental platform for creating autonomous AI agents that can brainstorm, generate Python code, and collaborate in real-time. Features a Creator agent capable of dynamically generating new agents, inter-agent messaging, and customizable objectives. ⚠️ Experimental.  
 Demo video available here: 🎥 [View Demo](https://drive.google.com/file/d/1QUplfJMUBH3g-4LIjkz3D-XM2dhRPoo9/view)
 
 
@@ -57,22 +62,31 @@ Demo video available here: 🎥 [View Demo](https://drive.google.com/file/d/1QUp
 - [StockPicker AI-powered investment research assistant](https://github.com/VinceBmmrt/CrewAI-StockPicker-MultiAgents-System-For-Investements) 📈🤖💸: This system coordinates multiple specialized agents working hierarchically to identify trending companies 🔍, analyze their financials 📊, and produce smart stock recommendations 📝. The final advice is delivered via custom mobile push notifications 📲.
 It also features contextual memory layers 🧠 using SQLite and Google Generative AI embeddings for semantic understanding and relevance. Designed for automated financial insights with structured multi-agent reasoning.
 
+
+- [Amazon Price Prediction — LLM + Deep Neural Network 🏷️🧠](https://github.com/VinceBmmrt/amazon-price-prediction-llm-deep-neural-network): An end-to-end ML pipeline that predicts Amazon product prices from raw text descriptions, combining LLM-based preprocessing with a custom deep neural network. Uses **Groq** to summarize 820,000+ product listings into structured 5-field summaries via async batch jobs, then trains a **10-layer ResNet-style DNN** (4,096 neurons, 100M+ parameters) with PyTorch on those enriched representations. Features multi-process data loading, log-scale price normalization, CUDA/MPS/CPU auto-detection.
+  
 - [Crew-AI Debate System](https://github.com/VinceBmmrt/Crew-AI-Debate-System) 🧠⚔️: A multi-agent debate simulation powered by CrewAI.  
 It features two AI debaters and a judge over a motion.  
 You can plug in your own API keys and use any models you like and create a debate between Claude, ChatGPT, and Deepseek, and let the judge pick a winner based on logic and clarity.
 
- - [Amazon Price Prediction — LLM + Deep Neural Network 🏷️🧠](https://github.com/VinceBmmrt/amazon-price-prediction-llm-deep-neural-network): An end-to-end ML pipeline that predicts Amazon product prices from raw text descriptions, combining LLM-based preprocessing with a custom deep neural network. Uses **Groq** to summarize 820,000+ product listings into structured 5-field summaries via async batch jobs, then trains a **10-layer ResNet-style DNN** (4,096 neurons, 100M+ parameters) with PyTorch on those enriched representations. Features multi-process data loading, log-scale price normalization, CUDA/MPS/CPU auto-detection.
-  
-- [AI Agentic Calendar Assistant](https://ai-assistant-langraph-openrouter-ew8l.vercel.app/): A personal AI assistant with a simple interface that can access your Google Calendar to smartly add events based on availability, check free time slots, and keep conversation history. The AI is powered by Langraph with an agent using OpenRouter.
-
-- [Netflix Clone project in Next.js](https://netflix-portfolio-nine.vercel.app/): Featuring Next.js 15, TypeScript, Tailwind CSS, TMDB API, responsive design, server components, optimized images, and dynamic content fetching
 
 - [GPT App with Spring AI](https://springai-front-33avo5rrd-vincebmmrts-projects.vercel.app/): Full-stack AI chatbot with a Java Spring backend, and simple React frontend.
   
-- [Dashboard project in Next.js from the official documentation course](https://nextjs-dashboard-vincebmmrts-projects.vercel.app/) with Tailwind CSS, NextAuth, OAuth, TypeScript, and Zod — includes best practices and Lighthouse performance optimizations
-  
+
+
+
+
+## 🌐 Full-Stack Engineering
+
+- [FullStack E-Shop project in React](https://cerulean-melba-c14f75.netlify.app/): A complete e-commerce application built with React, TypeScript, Firebase, Redux, and Stripe.  
+  Includes full authentication via OAuth, product browsing, cart management, and secure payment processing, all tested with Jest.
+
 - [Example of Front-end UX Designs](https://space-showcase-lime.vercel.app/): Creative landing page built with Next.js, TypeScript, Tailwind CSS, featuring an interactive spaceship pilot to explore animated previews of web app categories like hotel booking, travel planning, and dashboards, showcasing UX/UI skills
 
+- [Netflix Clone project in Next.js](https://netflix-portfolio-nine.vercel.app/): Featuring Next.js 15, TypeScript, Tailwind CSS, TMDB API, responsive design, server components, optimized images, and dynamic content fetching
+
+- [Dashboard project in Next.js from the official documentation course](https://nextjs-dashboard-vincebmmrts-projects.vercel.app/) with Tailwind CSS, NextAuth, OAuth, TypeScript, and Zod — includes best practices and Lighthouse performance optimizations
+  
 
 ### 👯 Always open to collaborating on interesting projects.
 
