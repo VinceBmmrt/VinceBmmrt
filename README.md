@@ -28,7 +28,13 @@ Explore some projects to get a feel for my skills:
 - [Career Digital Twin Alter Ego](https://huggingface.co/spaces/vincentBmmrt/career_conversation): An AI-powered conversational agent built with Gemini, OpenAI SDK, Gradio, and Python.  
   Designed as a digital alter ego to introduce myself to future employers and sends 📱 Pushover notifications when a user shares contact info or asks unknown questions.
 
-- [price-watch-multi-agent-platform](https://github.com/VinceBmmrt/price-watch-multi-agent-platform) 🤖💰: A LLM-orchestrated multi-agent platform combining RAG over 800K scraped Amazon products, a handcrafted fine-tuned Llama 3.2 deployed on a cloud GPU, and a deep residual neural network to estimate true product value on the fly. Seven specialized agents collaborate fully autonomously — from RSS feed scraping to crafting and delivering push notifications — with zero human intervention. Built with **Python, OpenAI, ChromaDB, PyTorch, Modal, and Gradio**.
+
+- [Amazon Price Prediction — LLM + Deep Neural Network 🏷️🧠](https://github.com/VinceBmmrt/amazon-price-prediction-llm-deep-neural-network):  
+  An **end-to-end ML pipeline** predicting Amazon product prices from raw text descriptions, combining **LLM-based preprocessing** with a custom **deep neural network**. Uses **Groq** to summarize 820,000+ product listings into structured 5-field summaries via async batch jobs, then trains a **10-layer ResNet-style DNN** (4,096 neurons, 100M+ parameters) with PyTorch on these enriched representations. The **fine-tuned LLaMA 3.2 model achieves state-of-the-art results**, outperforming all other frontier models worldwide — including **Claude 4.6 and GPT-5.2** — on this specific Amazon price prediction task. Features multi-process data loading, log-scale price normalization, and CUDA/MPS/CPU auto-detection.
+
+
+- [price-watch-multi-agent-platform](https://github.com/VinceBmmrt/price-watch-multi-agent-platform) 🤖💰:  
+  A LLM-orchestrated multi-agent platform combining **RAG over 800K scraped Amazon products**, a handcrafted **fine-tuned LLaMA 3.2** from the previous project deployed on a cloud GPU, and a **deep residual neural network** to estimate true product value on the fly. Seven specialized agents collaborate fully autonomously, from RSS feed scraping to crafting and delivering push notifications with zero human intervention. Built with **Python, OpenAI, ChromaDB, PyTorch, Modal, and Gradio**.
 
 
 - [4 Agents-AI-Engineering-Team](https://github.com/VinceBmmrt/4-Agents-Engineering-Team) 🤖👨‍💻🧪: A collaborative AI-driven software engineering team powered by CrewAI, where four specialized agents: tech lead 🧠, backend dev 🔧, frontend dev 🎨, and QA engineer ✅ — work together to design, build, test, and demo a complete Python project. Fully modular and configurable 🛠️, each agent uses a tailored language model to optimize its task. Includes a Gradio demo interface 💻 and automated unit testing 🔁 for structured, high-quality development. [demo here](https://drive.google.com/file/d/17ePDdkq0TVcTeYgG-axHndiNdVlBoeM5/view)
@@ -62,8 +68,6 @@ Demo video available here: 🎥 [View Demo](https://drive.google.com/file/d/1QUp
 - [StockPicker AI-powered investment research assistant](https://github.com/VinceBmmrt/CrewAI-StockPicker-MultiAgents-System-For-Investements) 📈🤖💸: This system coordinates multiple specialized agents working hierarchically to identify trending companies 🔍, analyze their financials 📊, and produce smart stock recommendations 📝. The final advice is delivered via custom mobile push notifications 📲.
 It also features contextual memory layers 🧠 using SQLite and Google Generative AI embeddings for semantic understanding and relevance. Designed for automated financial insights with structured multi-agent reasoning.
 
-
-- [Amazon Price Prediction — LLM + Deep Neural Network 🏷️🧠](https://github.com/VinceBmmrt/amazon-price-prediction-llm-deep-neural-network): An end-to-end ML pipeline that predicts Amazon product prices from raw text descriptions, combining LLM-based preprocessing with a custom deep neural network. Uses **Groq** to summarize 820,000+ product listings into structured 5-field summaries via async batch jobs, then trains a **10-layer ResNet-style DNN** (4,096 neurons, 100M+ parameters) with PyTorch on those enriched representations. Features multi-process data loading, log-scale price normalization, CUDA/MPS/CPU auto-detection.
   
 - [Crew-AI Debate System](https://github.com/VinceBmmrt/Crew-AI-Debate-System) 🧠⚔️: A multi-agent debate simulation powered by CrewAI.  
 It features two AI debaters and a judge over a motion.  
