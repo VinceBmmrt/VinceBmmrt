@@ -28,6 +28,11 @@ Explore some projects to get a feel for my skills:
 - [Career Digital Twin Alter Ego](https://huggingface.co/spaces/vincentBmmrt/career_conversation): An AI-powered conversational agent built with Gemini, OpenAI SDK, Gradio, and Python.  
   Designed as a digital alter ego to introduce myself to future employers and sends 📱 Pushover notifications when a user shares contact info or asks unknown questions.
 
+- [Digital Twin V2 — AWS Cloud Architecture 🧠☁️](https://d2s1zfamsgsifg.cloudfront.net/):  
+  The **production-grade evolution** of my Career Digital Twin, now fully deployed on AWS with a professional cloud architecture.  
+  Features a **serverless backend** (AWS Lambda + FastAPI), a **REST API** (API Gateway), **global HTTPS delivery** (CloudFront), **conversation memory persistence** (S3), and **AI responses powered by AWS Bedrock**.  
+  Infrastructure managed entirely with **Terraform** across 3 isolated environments (dev, test, prod), with a fully automated **CI/CD pipeline via GitHub Actions** using keyless OIDC authentication — no AWS credentials stored anywhere.
+
 
 - [Amazon Price Prediction — LLM + Deep Neural Network 🏷️🧠](https://github.com/VinceBmmrt/amazon-price-prediction-llm-deep-neural-network):  
   An **end-to-end ML pipeline** predicting Amazon product prices from raw text descriptions, combining **LLM-based preprocessing** with a custom **deep neural network**. Uses **Groq** to summarize 820,000+ product listings into structured 5-field summaries via async batch jobs, then trains a **10-layer ResNet-style DNN** (4,096 neurons, 100M+ parameters) with PyTorch on these enriched representations.
