@@ -60,12 +60,15 @@ Demo video available here: 🎥 [AI Sidekick Assistant Demo](https://drive.googl
 - [Advanced RAG System with Evaluation Framework](https://github.com/VinceBmmrt/Advanced-RAG-System-with-Evaluation-Framework-and-Pro-Implementations)[Advanced RAG System with Evaluation Framework](https://github.com/VinceBmmrt/Advanced-RAG-System-with-Evaluation-Framework-and-Pro-Implementations)📚🤖: An advanced Retrieval-Augmented Generation (RAG) system built in Python and Gradio, featuring an evaluation framework to measure performance using MRR, nDCG, and keyword coverage.  
 It demonstrates how to combine large language models with document retrieval, custom prompts, and systematic self-evaluation for high-quality answer generation.  
 Includes an interactive Gradio interface 💻 and example datasets for testing and benchmarking the RAG pipeline.  
-   
 
 
 - [Agents AI Factory](https://github.com/VinceBmmrt/agents-army-factory-autogencore) 🤖🛠️: An experimental platform for creating autonomous AI agents that can brainstorm, generate Python code, and collaborate in real-time. Features a Creator agent capable of dynamically generating new agents, inter-agent messaging, and customizable objectives. ⚠️ Experimental.  
 Demo video available here: 🎥 [View Demo](https://drive.google.com/file/d/1QUplfJMUBH3g-4LIjkz3D-XM2dhRPoo9/view)
 
+- [AI Cybersecurity Analyzer 🔐](https://cyber-analyzer-orlod5reua-uc.a.run.app/):  
+  An AI-powered web application that analyzes Python code for security vulnerabilities.  
+  Combines **OpenAI** for intelligent analysis, **Semgrep MCP server** for static scanning, a **React/Next.js** frontend, and a **FastAPI** backend — fully containerized with **Docker** and deployed on both **Azure Container Apps** and **Google Cloud Run** using **Terraform**.  
+  A multi-cloud Infrastructure as Code project showcasing serverless container deployment across two major cloud providers.
 
 - [AI Deep Research](https://github.com/VinceBmmrt/AI-DeepResearch-App):  A multi-agent research application powered by OpenAI's API and Gradio.  
   It performs parallel searches (customizable in the code), synthesizes the results into a well-structured markdown report, and sends it via email using Resend.  
