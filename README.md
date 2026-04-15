@@ -25,70 +25,36 @@ Explore some projects to get a feel for my skills:
 
 ## 🤖 AI & Agentic Systems
 
-- [Career Digital Twin Alter Ego](https://huggingface.co/spaces/vincentBmmrt/career_conversation): An AI-powered conversational agent built with Gemini, OpenAI SDK, Gradio, and Python.  
-  Designed as a digital alter ego to introduce myself to future employers and sends 📱 Pushover notifications when a user shares contact info or asks unknown questions.
+- [Career Digital Twin Alter Ego](https://huggingface.co/spaces/vincentBmmrt/career_conversation): An AI-powered conversational agent built with Gemini, OpenAI SDK, Gradio, and Python. Designed as a digital alter ego to introduce myself to future employers and sends Pushover notifications when a user shares contact info or asks unknown questions.
 
-- [Digital Twin V2 — AWS Cloud Architecture 🧠☁️](https://d2s1zfamsgsifg.cloudfront.net/):  
-  The **production-grade evolution** of my Career Digital Twin, now fully deployed on AWS with a professional cloud architecture.  
-  Features a **serverless backend** (AWS Lambda + FastAPI), a **REST API** (API Gateway), **global HTTPS delivery** (CloudFront), **conversation memory persistence** (S3), and **AI responses powered by AWS Bedrock**.  
-  Infrastructure managed entirely with **Terraform** across 3 isolated environments (dev, test, prod), with a fully automated **CI/CD pipeline via GitHub Actions** using keyless OIDC authentication — no AWS credentials stored anywhere.
+- [Digital Twin V2 - AWS Cloud Architecture](https://d2s1zfamsgsifg.cloudfront.net/) ☁️: The production-grade evolution of my Career Digital Twin, now fully deployed on AWS with a professional cloud architecture. Features a serverless backend (AWS Lambda + FastAPI), a REST API (API Gateway), global HTTPS delivery (CloudFront), conversation memory persistence (S3), and AI responses powered by AWS Bedrock. Infrastructure managed entirely with Terraform across 3 isolated environments (dev, test, prod), with a fully automated CI/CD pipeline via GitHub Actions using keyless OIDC authentication, no AWS credentials stored anywhere.
 
+- [Amazon Price Prediction - LLM + Deep Neural Network](https://github.com/VinceBmmrt/amazon-price-prediction-llm-deep-neural-network) 🧠: An end-to-end ML pipeline predicting Amazon product prices from raw text descriptions, combining LLM-based preprocessing with a custom deep neural network. Uses Groq to summarize 820,000+ product listings into structured 5-field summaries via async batch jobs, then trains a 10-layer ResNet-style DNN (4,096 neurons, 100M+ parameters) with PyTorch. The fine-tuned LLaMA 3.2 model achieves state-of-the-art results on this specific task. Features multi-process data loading, log-scale price normalization, and CUDA/MPS/CPU auto-detection.
 
-- [Amazon Price Prediction — LLM + Deep Neural Network 🏷️🧠](https://github.com/VinceBmmrt/amazon-price-prediction-llm-deep-neural-network):  
-  An **end-to-end ML pipeline** predicting Amazon product prices from raw text descriptions, combining **LLM-based preprocessing** with a custom **deep neural network**. Uses **Groq** to summarize 820,000+ product listings into structured 5-field summaries via async batch jobs, then trains a **10-layer ResNet-style DNN** (4,096 neurons, 100M+ parameters) with PyTorch on these enriched representations.
-The **fine-tuned LLaMA 3.2 model achieves state-of-the-art results**, outperforming all other frontier models worldwide including **Claude 4.6 and GPT-5.2** on this specific Amazon price prediction task. Features multi-process data loading, log-scale price normalization, and CUDA/MPS/CPU auto-detection.
+- [Price Watch Multi-Agent Platform](https://github.com/VinceBmmrt/price-watch-multi-agent-platform) 🔍: A LLM-orchestrated multi-agent platform combining RAG over 800K scraped Amazon products, a fine-tuned LLaMA 3.2 deployed on a cloud GPU, and a deep residual neural network to estimate true product value on the fly. Seven specialized agents collaborate fully autonomously, from RSS feed scraping to crafting and delivering push notifications with zero human intervention. Built with Python, OpenAI, ChromaDB, PyTorch, Modal, and Gradio.
 
+- [Alex - the Agentic Learning Equities eXplainer](https://github.com/VinceBmmrt/Alex---the-Agentic-Learning-Equities-Explainer) 📈: A production-grade AI financial advisor built entirely on AWS serverless infrastructure. Six specialized agents collaborate to deliver portfolio analysis, retirement projections, and dynamic chart generation: a Financial Planner orchestrates the pipeline via SQS, while a Researcher agent browses financial websites autonomously every 2 hours via a Playwright MCP server, embedding findings into S3 Vectors for semantic retrieval. Built with the OpenAI Agents SDK, AWS Bedrock (Nova Pro), SageMaker serverless embeddings, Aurora Serverless v2, and a Next.js frontend with Clerk authentication. Full observability via Langfuse, infrastructure managed end-to-end with Terraform. [Watch demo](https://drive.google.com/file/d/1Qe9NpkxsY-7UPKQbOUvDrSZR9QQI8FQt/view?usp=sharing)
 
-- [price-watch-multi-agent-platform](https://github.com/VinceBmmrt/price-watch-multi-agent-platform) 🤖💰:  
-A LLM-orchestrated multi-agent platform combining **RAG over 800K scraped Amazon products**, a handcrafted **fine-tuned LLaMA 3.2** from the previous project deployed on a cloud GPU, and a **deep residual neural network** to estimate true product value on the fly. Seven specialized agents collaborate fully autonomously, from RSS feed scraping to crafting and delivering push notifications with zero human intervention. Built with **Python, OpenAI, ChromaDB, PyTorch, Modal, and Gradio**.
+- [Autonomous AI Trading Simulation](https://github.com/VinceBmmrt/Autonomous-Trading-Simulation) 💹: An experimental simulation where multiple AI agents inspired by iconic investors like Buffett, Soros, Dalio, and Wood develop and evolve their own trading strategies. Each agent leverages MCP servers, real-time Polygon market data, Brave Search, and persistent memory to adapt over time. Built with Python 3.12+, Gradio, OpenAI Agents, Plotly, and multi-model orchestration (GPT, DeepSeek, Gemini, Grok). [Watch demo](https://drive.google.com/file/d/17wud_t8fTiFNZBx5Hn02OoVFxCJR-yGR/view)
 
+- [Advanced RAG System with Evaluation Framework](https://github.com/VinceBmmrt/Advanced-RAG-System-with-Evaluation-Framework-and-Pro-Implementations) 📚: An advanced Retrieval-Augmented Generation system built in Python and Gradio, featuring an evaluation framework to measure performance using MRR, nDCG, and keyword coverage. Demonstrates how to combine large language models with document retrieval, custom prompts, and systematic self-evaluation for high-quality answer generation.
 
-- [4 Agents-AI-Engineering-Team](https://github.com/VinceBmmrt/4-Agents-Engineering-Team) 🤖👨‍💻🧪: A collaborative AI-driven software engineering team powered by CrewAI, where four specialized agents: tech lead 🧠, backend dev 🔧, frontend dev 🎨, and QA engineer ✅ — work together to design, build, test, and demo a complete Python project. Fully modular and configurable 🛠️, each agent uses a tailored language model to optimize its task. Includes a Gradio demo interface 💻 and automated unit testing 🔁 for structured, high-quality development. [demo here](https://drive.google.com/file/d/17ePDdkq0TVcTeYgG-axHndiNdVlBoeM5/view)
+- [4 Agents AI Engineering Team](https://github.com/VinceBmmrt/4-Agents-Engineering-Team) 👨‍💻: A collaborative AI-driven software engineering team powered by CrewAI, where four specialized agents (tech lead, backend dev, frontend dev, and QA engineer) work together to design, build, test, and demo a complete Python project. Fully modular and configurable, each agent uses a tailored language model to optimize its task. Includes a Gradio demo interface and automated unit testing. [Watch demo](https://drive.google.com/file/d/17ePDdkq0TVcTeYgG-axHndiNdVlBoeM5/view)
 
-- [Alex - the Agentic Learning Equities eXplainer](https://github.com/VinceBmmrt/Alex---the-Agentic-Learning-Equities-Explainer) 📈🤖☁️:
-A production-grade AI financial advisor built entirely on AWS serverless infrastructure. Six specialized agents collaborate to deliver portfolio analysis, retirement projections, and dynamic chart generation: a Financial Planner orchestrates the pipeline via SQS, while a Researcher agent browses financial websites autonomously every 2 hours via a Playwright MCP server, embedding findings into S3 Vectors for semantic retrieval. Built with the OpenAI Agents SDK, AWS Bedrock (Nova Pro), SageMaker serverless embeddings, Aurora Serverless v2, and a Next.js frontend with Clerk authentication. Full observability via Langfuse, infrastructure managed end-to-end with Terraform.
-🎬 [Watch demo](https://drive.google.com/file/d/1Qe9NpkxsY-7UPKQbOUvDrSZR9QQI8FQt/view?usp=sharing)
-
-- [AI Sidekick Assistant](https://github.com/VinceBmmrt/Langraph-AI-Sidekick-Assistant) 🤖🚀: This experimental project showcases a cutting-edge AI assistant capable of organizing knowledge and actions as interconnected graphs. It seamlessly combines web search 🔍, automated browsing 🌐, code execution 🐍, file handling 📂, email writing and reading 📧, and knowledge retrieval from Wikipedia 📚, all while self-evaluating and self-correcting its answers to improve over time.  
-If you’re fascinated by AI that can think, act, and adapt autonomously, dive in and explore this experimental journey into intelligent assistants.
-We empower the AI to run Python code dynamically, making it incredibly powerful but use this capability with caution to ensure safety. Explore with curiosity and care! ⚠️
-Demo video available here: 🎥 [AI Sidekick Assistant Demo](https://drive.google.com/file/d/1q4y5yFmMHtf4N3U7WncXWXR6v8bpbm9k/view)
-
-- [Autonomous AI Trading Simulation](https://github.com/VinceBmmrt/Autonomous-Trading-Simulation) 📈💹  
-  An experimental simulation where multiple AI agents — inspired by iconic investors like Buffett, Soros, Dalio, and Wood — develop and evolve their own trading strategies.  
-  Each agent leverages **MCP servers**, real-time **Polygon market data**, **Brave Search**, and persistent memory 🧠 to adapt over time.  
-  🔧 Built with **Python 3.12+, Gradio, OpenAI Agents, Plotly, and multi-model orchestration** (GPT, DeepSeek, Gemini, Grok).  
-  🎥 [Watch demo](https://drive.google.com/file/d/17wud_t8fTiFNZBx5Hn02OoVFxCJR-yGR/view)
+- [AI Sidekick Assistant](https://github.com/VinceBmmrt/Langraph-AI-Sidekick-Assistant) 🔗: An experimental AI assistant capable of organizing knowledge and actions as interconnected graphs. Combines web search, automated browsing, code execution, file handling, email writing and reading, and knowledge retrieval from Wikipedia, all while self-evaluating and self-correcting its answers over time. [Watch demo](https://drive.google.com/file/d/1q4y5yFmMHtf4N3U7WncXWXR6v8bpbm9k/view)
 
 
-- [Advanced RAG System with Evaluation Framework](https://github.com/VinceBmmrt/Advanced-RAG-System-with-Evaluation-Framework-and-Pro-Implementations)[Advanced RAG System with Evaluation Framework](https://github.com/VinceBmmrt/Advanced-RAG-System-with-Evaluation-Framework-and-Pro-Implementations)📚🤖: An advanced Retrieval-Augmented Generation (RAG) system built in Python and Gradio, featuring an evaluation framework to measure performance using MRR, nDCG, and keyword coverage.  
-It demonstrates how to combine large language models with document retrieval, custom prompts, and systematic self-evaluation for high-quality answer generation.  
-Includes an interactive Gradio interface 💻 and example datasets for testing and benchmarking the RAG pipeline.  
+- [Agents AI Factory](https://github.com/VinceBmmrt/agents-army-factory-autogencore) 🏭: An experimental platform for creating autonomous AI agents that can brainstorm, generate Python code, and collaborate in real-time. Features a Creator agent capable of dynamically generating new agents, inter-agent messaging, and customizable objectives. ⚠️ Experimental. [Watch demo](https://drive.google.com/file/d/1QUplfJMUBH3g-4LIjkz3D-XM2dhRPoo9/view)
 
+- [AI Cybersecurity Analyzer](https://cyber-analyzer-orlod5reua-uc.a.run.app/) 🔐: An AI-powered web application that analyzes Python code for security vulnerabilities. Combines OpenAI for intelligent analysis, a Semgrep MCP server for static scanning, a React/Next.js frontend, and a FastAPI backend, fully containerized with Docker and deployed on both Azure Container Apps and Google Cloud Run using Terraform.
 
-- [Agents AI Factory](https://github.com/VinceBmmrt/agents-army-factory-autogencore) 🤖🛠️: An experimental platform for creating autonomous AI agents that can brainstorm, generate Python code, and collaborate in real-time. Features a Creator agent capable of dynamically generating new agents, inter-agent messaging, and customizable objectives. ⚠️ Experimental.  
-Demo video available here: 🎥 [View Demo](https://drive.google.com/file/d/1QUplfJMUBH3g-4LIjkz3D-XM2dhRPoo9/view)
+- [AI Deep Research](https://github.com/VinceBmmrt/AI-DeepResearch-App) 🔬: A multi-agent research application powered by OpenAI's API and Gradio. Performs parallel searches, synthesizes the results into a well-structured markdown report, and sends it via email using Resend. Not deployed online to avoid OpenAI API costs. [Watch demo](https://drive.google.com/file/d/1v7ZVjc3eCQ7Z6bjfRF2HYZhjHBgFwspS/view)
 
-- [AI Cybersecurity Analyzer 🔐](https://cyber-analyzer-orlod5reua-uc.a.run.app/):  
-  An AI-powered web application that analyzes Python code for security vulnerabilities.  
-  Combines **OpenAI** for intelligent analysis, **Semgrep MCP server** for static scanning, a **React/Next.js** frontend, and a **FastAPI** backend — fully containerized with **Docker** and deployed on both **Azure Container Apps** and **Google Cloud Run** using **Terraform**.  
-  A multi-cloud Infrastructure as Code project showcasing serverless container deployment across two major cloud providers.
+- [StockPicker AI Investment Research Assistant](https://github.com/VinceBmmrt/CrewAI-StockPicker-MultiAgents-System-For-Investements) 📊: Coordinates multiple specialized agents working hierarchically to identify trending companies, analyze their financials, and produce smart stock recommendations delivered via mobile push notifications. Features contextual memory layers using SQLite and Google Generative AI embeddings for semantic understanding and relevance.
 
-- [AI Deep Research](https://github.com/VinceBmmrt/AI-DeepResearch-App):  A multi-agent research application powered by OpenAI's API and Gradio.  
-  It performs parallel searches (customizable in the code), synthesizes the results into a well-structured markdown report, and sends it via email using Resend.  
-  💸 Not deployed online to avoid OpenAI API costs — but you can [watch a full demo here](https://drive.google.com/file/d/1v7ZVjc3eCQ7Z6bjfRF2HYZhjHBgFwspS/view).
+- [Crew-AI Debate System](https://github.com/VinceBmmrt/Crew-AI-Debate-System) 🎙️: A multi-agent debate simulation powered by CrewAI. Features two AI debaters and a judge over a motion. Supports any combination of models (Claude, ChatGPT, DeepSeek) with a judge that picks a winner based on logic and clarity.
 
-- [StockPicker AI-powered investment research assistant](https://github.com/VinceBmmrt/CrewAI-StockPicker-MultiAgents-System-For-Investements) 📈🤖💸: This system coordinates multiple specialized agents working hierarchically to identify trending companies 🔍, analyze their financials 📊, and produce smart stock recommendations 📝. The final advice is delivered via custom mobile push notifications 📲.
-It also features contextual memory layers 🧠 using SQLite and Google Generative AI embeddings for semantic understanding and relevance. Designed for automated financial insights with structured multi-agent reasoning.
-
-  
-- [Crew-AI Debate System](https://github.com/VinceBmmrt/Crew-AI-Debate-System) 🧠⚔️: A multi-agent debate simulation powered by CrewAI.  
-It features two AI debaters and a judge over a motion.  
-You can plug in your own API keys and use any models you like and create a debate between Claude, ChatGPT, and Deepseek, and let the judge pick a winner based on logic and clarity.
-
-
-- [GPT App with Spring AI](https://springai-front-33avo5rrd-vincebmmrts-projects.vercel.app/): Full-stack AI chatbot with a Java Spring backend, and simple React frontend.
-  
+- [GPT App with Spring AI](https://springai-front-33avo5rrd-vincebmmrts-projects.vercel.app/) ☕: Full-stack AI chatbot with a Java Spring backend and a React frontend.
 
 
 
